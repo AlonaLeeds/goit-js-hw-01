@@ -1,4 +1,4 @@
-function getElementWidth(content, padding, border);{
+function getElementWidth(content, padding, border) {
 const isContentNumber = Number.parseFloat(content);
 const isPaddingNumber = Number.parseFloat(padding);
 const isBorderNumber = Number.parseFloat(border);
